@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Fabbo Massimiliano</h1>](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Fabbo%20Massimiliano&textBg=false&fontColor=000000&animation=fadeIn)
+<h1 align="center" link= rel="reconnect" href="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Fabbo%20Massimiliano&textBg=false&fontColor=000000&animation=fadeIn">Hi 👋, I'm Fabbo Massimiliano</h1>)
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
 - 🌱 I’m currently learning **at ITS Prodigi - Full Stack Developer, Pisa, PI**
